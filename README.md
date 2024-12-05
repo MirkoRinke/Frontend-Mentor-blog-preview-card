@@ -13,7 +13,7 @@ Explore the Blog Preview Card repository! This is the second project in the Fron
 ## 🔗 Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/html-scss-flexbox-CDAGm6oFVt)
-- [Live Site URL](https://sensational-horse-97cc95.netlify.app)
+
 
 ## 🛠️ Built with
 
@@ -35,5 +35,6 @@ Explore the Blog Preview Card repository! This is the second project in the Fron
 
 ## ✍️ Author
 
-- Website - [My Github](https://github.com/MirkoRinke)
+- [Webiste](https://mirkorinke.dev)
+- [Github](https://github.com/MirkoRinke)
 - Frontend Mentor - [@MirkoRinke](https://www.frontendmentor.io/profile/MirkoRinke)
